@@ -113,3 +113,11 @@ Loading pronouns.exe...
   ⭐️ FROM THE DIGITAL DIMENSION OF [LILMEDDY](https://github.com/lilmeddy) ⭐️
   
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
