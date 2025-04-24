@@ -119,4 +119,5 @@ Loading pronouns.exe...
 
 ## 🐍 Watch my contributions being eaten by a snake:
 
-![Snake animation](https://github.com/lilmeddy/lilmeddy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/lilmeddy/lilmeddy/output/github-contribution-grid-snake.svg)
+
