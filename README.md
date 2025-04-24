@@ -118,6 +118,6 @@ Loading pronouns.exe...
 
 <br clear="both">
 
-<img src="snake.yml" />
+<img src="https://github.com/lilmeddy/lilmeddy/blob/main/snake.yml" />
 
 ###
