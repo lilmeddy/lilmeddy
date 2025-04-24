@@ -92,7 +92,7 @@ Loading pronouns.exe...
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lilmeddy&show_icons=true&theme=radical)
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lilmeddy&layout=compact&theme=radical)
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lilmeddy&theme=radical)
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lilmeddy&theme=radical" alt="GitHub Streak" /></a>
   
 </div>
 
@@ -118,6 +118,6 @@ Loading pronouns.exe...
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="snake.yml" />
 
 ###
