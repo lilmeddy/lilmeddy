@@ -2,8 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # daily at midnight UTC
   workflow_dispatch:
+
+permissions:
+  contents: write  # needed to push to branches
 
 jobs:
   build:
@@ -11,7 +14,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate GitHub Contribution Snake
         uses: Platane/snk@v3
@@ -21,10 +24,10 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output
-          build_dir: dist
+          target_branch: output  # branch to push the generated files
+          build_dir: dist       # folder containing the SVG and GIF
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
