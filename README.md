@@ -89,11 +89,14 @@ Loading pronouns.exe...
 ## 📈 MY CODE ADVENTURES:
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lilmeddy&show_icons=true&theme=radical)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lilmeddy&layout=compact&theme=radical)
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lilmeddy&theme=radical" alt="GitHub Streak" /></a>
-  
+  <a href="https://github.com/lilmeddy">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lilmeddy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilmeddy&layout=compact&langs_count=7&theme=radical"/>
+  </a>
+  <br>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=lilmeddy&theme=radical" alt="GitHub Streak" />
+  </a>
 </div>
 
 ## 🎮 WHEN I'M NOT CODING:
