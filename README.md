@@ -117,10 +117,6 @@ Loading pronouns.exe...
   
 </div>
 
-###
+## 🐍 Watch my contributions being eaten by a snake:
 
-<br clear="both">
-
-<img src="https://github.com/lilmeddy/lilmeddy/blob/main/snake.yml" />
-
-###
+![Snake animation](https://github.com/lilmeddy/lilmeddy/blob/output/github-contribution-grid-snake.svg)
